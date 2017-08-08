@@ -1,0 +1,6 @@
+[15-Jun-2015 11:30:44 UTC] PHP Fatal error:  Call to undefined method Common_model::get_page_banner() in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krci/application/controllers/index.php on line 109
+[15-Jun-2015 11:32:29 UTC] PHP Fatal error:  Call to undefined method Common_model::get_page_banner() in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krci/application/controllers/index.php on line 109
+[20-Jun-2015 12:52:49 UTC] PHP Fatal error:  Call to undefined method Events_model::update_event() in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krciV2.0/application/controllers/admin/events.php on line 107
+[21-Jun-2015 05:19:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krciV2.0/application/controllers/index.php on line 205
+[23-Jun-2015 12:16:20 UTC] PHP Fatal error:  Call to undefined method Common_model::gallery_dates() in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krciV2.0/application/controllers/index.php on line 163
+[23-Jun-2015 12:59:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/edmsight/public_html/websight.ae/clients/tech-prg6/krciV2.0/application/views/site/live_sermon_page.php on line 17
